@@ -1,4 +1,4 @@
-# Miravall
+# Miravall Website
 
 A Greek-first wedding venue website with React, TypeScript and Vite. Open `?lang=en` for English. The language switch preserves the current section.
 
